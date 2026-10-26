@@ -1,1 +1,9 @@
-
+dependencies:
+  - FastQC 0.12.0 
+  - qualimap v2.3
+  - bcftools=1.19
+  - samtools=1.19
+  - isaac4=04.18.11.09
+  - platypus-variant=0.8.1
+  - htsli-8.2.0
+  - vep -cache_version 107

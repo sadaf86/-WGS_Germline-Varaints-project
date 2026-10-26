@@ -1,14 +1,14 @@
 ## Whole genome sequencing (WGS) data using public freely available tools
-FastQC
+1:FastQC
 
-Qualimap  
+2:Qualimap  
 
-Isaac_refrence
+3:Isaac_refrence
 
-Isaac_mapping
+4:Isaac_mapping
 
-Playtypus Germline variant calling
+5:Playtypus Germline variant calling
 
-VEP for variant Annotation 
+6:VEP for variant Annotation 
 
-Bcftools filter the vaiants 
+7:Bcftools filter the vaiants 
